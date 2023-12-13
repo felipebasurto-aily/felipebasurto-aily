@@ -1,0 +1,5 @@
+- 👋 I’m *Felipe Basurto*, a proud member of the Aily team!
+- 🧪 My focus is on the intersection of data science and the M&S vertical, working on the QA and Site Health Labs.
+- 📈 Currently, I'm deepening my expertise in data analysis, predictive modeling, and algorithm development.
+- 🤝 Beyond my passions there are sports such as football or ski, hitting the gym, going out, and watching Formula 1 🏎️
+- 👨🏼‍💻 Feel free to contact me!
